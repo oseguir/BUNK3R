@@ -138,8 +138,10 @@ BF=W
 BB=404
 BH=12nk
 BI=1240
+BK=pa1
 BE=V
 BC=lomax
+BJ=Tupa
 BG=_
 echo '( ___ )--------------------------------------( ___ )'
 echo ' | / |                                        | \ |'
@@ -159,7 +161,7 @@ black)
 blackw)
         c
         ;;
-$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$BI)
+$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$BI | $BJ$BK)
         echo 'Loading...';sleep 1.4
         echo ' '
         echo 'Acceso garantizado, bienvenido' $a
