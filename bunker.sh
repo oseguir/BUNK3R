@@ -136,6 +136,8 @@ BA=OMEGA
 BD=612
 BF=W
 BB=404
+BH=12nk
+BI=1240
 BE=V
 BC=lomax
 BG=_
@@ -157,7 +159,7 @@ black)
 blackw)
         c
         ;;
-$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG)
+$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$HI)
         echo 'Loading...';sleep 1.4
         echo ' '
         echo 'Acceso garantizado, bienvenido' $a
