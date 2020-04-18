@@ -1,3 +1,4 @@
+#/data/data/com.termux/files/usr/bin/bash
 echo " "
 c() {
 exit;bash bunker.sh
