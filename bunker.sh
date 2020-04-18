@@ -159,7 +159,7 @@ black)
 blackw)
         c
         ;;
-$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$HI)
+$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$BI)
         echo 'Loading...';sleep 1.4
         echo ' '
         echo 'Acceso garantizado, bienvenido' $a
