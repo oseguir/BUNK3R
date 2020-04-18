@@ -1,4 +1,3 @@
-#!/bin/bash
 echo " "
 c() {
 exit;bash bunker.sh
