@@ -138,11 +138,13 @@ BM=siyhal9apapa
 BF=W
 BB=404
 BH=12nk
+BP=rrezzi
 BL=trmx@dGmaaa
 BI=1240
 BK=pa1
 BE=V
 BC=lomax
+BO=ferra
 BN=aemmasgapeea010
 BJ=Tupa
 BG=_
@@ -164,7 +166,7 @@ black)
 blackw)
         c
         ;;
-$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$BI | $BJ$BK |$BL$BM$BN)
+$BA$BB | $BC$BD | $BE$BF | $BE$BF$BG | $BH$BI | $BJ$BK |$BL$BM$BN | $BO$BP)
         echo 'Loading...';sleep 1.4
         echo ' '
         echo 'Acceso garantizado, bienvenido' $a
