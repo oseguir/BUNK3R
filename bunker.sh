@@ -1,10 +1,10 @@
 echo " "
 c() {
-exit;bash bunker.sh
+	exit;bash bunker.sh
 }
 
 e() {
-sleep 0.7;echo "Contraseña incorrecta. ¿No es usted de VW?"
+	sleep 0.7;echo "Contraseña incorrecta. ¿No es usted de VW?"
 }
 
 f() {
